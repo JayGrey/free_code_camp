@@ -1,3 +1,9 @@
 from django.shortcuts import render
+from django.http import HttpResponse, JsonResponse
+from .models import Quote
 
-# Create your views here.
+
+def index(request):
+    quote = Quote.quotes.random()
+    response = {'author': quote.author, 'text': quote.text}
+    return JsonResponse(response)
