@@ -1,0 +1,5602 @@
+[
+    {
+        "model": "quotes.Quote",
+        "pk": 1,
+        "fields": {
+            "author": "Thomas Edison",
+            "text": "Genius is one percent inspiration and ninety-nine percent perspiration."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 2,
+        "fields": {
+            "author": "Yogi Berra",
+            "text": "You can observe a lot just by watching."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 3,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "A house divided against itself cannot stand."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 4,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Difficulties increase the nearer we get to the goal."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 5,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Fate is in your hands and no one elses"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 6,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "Be the chief but never the lord."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 7,
+        "fields": {
+            "author": "Carl Sandburg",
+            "text": "Nothing happens unless first we dream."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 8,
+        "fields": {
+            "author": "Aristotle",
+            "text": "Well begun is half done."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 9,
+        "fields": {
+            "author": "Yogi Berra",
+            "text": "Life is a learning experience, only if you learn."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 10,
+        "fields": {
+            "author": "Margaret Sangster",
+            "text": "Self-complacency is fatal to progress."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 11,
+        "fields": {
+            "author": "Buddha",
+            "text": "Peace comes from within. Do not seek it without."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 12,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "What you give is what you get."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 13,
+        "fields": {
+            "author": "Iris Murdoch",
+            "text": "We can only learn to love by loving."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 14,
+        "fields": {
+            "author": "Karen Clark",
+            "text": "Life is change. Growth is optional. Choose wisely."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 15,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "You'll see it when you believe it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 16,
+        "fields": {
+            "author": "",
+            "text": "Today is the tomorrow we worried about yesterday."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 17,
+        "fields": {
+            "author": "",
+            "text": "It's easier to see the mistakes on someone else's paper."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 18,
+        "fields": {
+            "author": "",
+            "text": "Every man dies. Not every man really lives."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 19,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "To lead people walk behind them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 20,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "Having nothing, nothing can he lose."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 21,
+        "fields": {
+            "author": "Henry J. Kaiser",
+            "text": "Trouble is only opportunity in work clothes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 22,
+        "fields": {
+            "author": "Publilius Syrus",
+            "text": "A rolling stone gathers no moss."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 23,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Ideas are the beginning points of all fortunes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 24,
+        "fields": {
+            "author": "Donald Trump",
+            "text": "Everything in life is luck."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 25,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "Doing nothing is better than being busy doing nothing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 26,
+        "fields": {
+            "author": "Benjamin Spock",
+            "text": "Trust yourself. You know more than you think you do."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 27,
+        "fields": {
+            "author": "Confucius",
+            "text": "Study the past, if you would divine the future."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 28,
+        "fields": {
+            "author": "",
+            "text": "The day is already blessed, find peace within it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 29,
+        "fields": {
+            "author": "Sigmund Freud",
+            "text": "From error to error one discovers the entire truth."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 30,
+        "fields": {
+            "author": "Benjamin Franklin",
+            "text": "Well done is better than well said."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 31,
+        "fields": {
+            "author": "Ella Williams",
+            "text": "Bite off more than you can chew, then chew it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 32,
+        "fields": {
+            "author": "Buddha",
+            "text": "Work out your own salvation. Do not depend on others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 33,
+        "fields": {
+            "author": "Benjamin Franklin",
+            "text": "One today is worth two tomorrows."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 34,
+        "fields": {
+            "author": "Christopher Reeve",
+            "text": "Once you choose hope, anythings possible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 35,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "God always takes the simplest way."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 36,
+        "fields": {
+            "author": "Charles Kettering",
+            "text": "One fails forward toward success."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 37,
+        "fields": {
+            "author": "",
+            "text": "From small beginnings come great things."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 38,
+        "fields": {
+            "author": "Chinese proverb",
+            "text": "Learning is a treasure that will follow its owner everywhere"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 39,
+        "fields": {
+            "author": "Socrates",
+            "text": "Be as you wish to seem."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 40,
+        "fields": {
+            "author": "V. Naipaul",
+            "text": "The world is always in movement."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 41,
+        "fields": {
+            "author": "John Wooden",
+            "text": "Never mistake activity for achievement."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 42,
+        "fields": {
+            "author": "Haddon Robinson",
+            "text": "What worries you masters you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 43,
+        "fields": {
+            "author": "Pearl Buck",
+            "text": "One faces the future with ones past."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 44,
+        "fields": {
+            "author": "Brian Tracy",
+            "text": "Goals are the fuel in the furnace of achievement."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 45,
+        "fields": {
+            "author": "Leonardo da Vinci",
+            "text": "Who sows virtue reaps honour."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 46,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "Be kind whenever possible. It is always possible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 47,
+        "fields": {
+            "author": "Chinese proverb",
+            "text": "Talk doesn't cook rice."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 48,
+        "fields": {
+            "author": "Buddha",
+            "text": "He is able who thinks he is able."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 49,
+        "fields": {
+            "author": "Larry Elder",
+            "text": "A goal without a plan is just a wish."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 50,
+        "fields": {
+            "author": "Michael Korda",
+            "text": "To succeed, we must first believe that we can."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 51,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Learn from yesterday, live for today, hope for tomorrow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 52,
+        "fields": {
+            "author": "James Lowell",
+            "text": "A weed is no more than a flower in disguise."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 53,
+        "fields": {
+            "author": "Yoda",
+            "text": "Do, or do not. There is no try."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 54,
+        "fields": {
+            "author": "Harriet Beecher Stowe",
+            "text": "All serious daring starts from within."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 55,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "The best teacher is experience learned from failures."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 56,
+        "fields": {
+            "author": "Murray Gell-Mann",
+            "text": "Think how hard physics would be if particles could think."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 57,
+        "fields": {
+            "author": "John Lennon",
+            "text": "Love is the flower you've got to let grow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 58,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Don't wait. The time will never be just right."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 59,
+        "fields": {
+            "author": "Pericles",
+            "text": "Time is the wisest counsellor of all."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 60,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "You give before you get."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 61,
+        "fields": {
+            "author": "Socrates",
+            "text": "Wisdom begins in wonder."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 62,
+        "fields": {
+            "author": "Baltasar Gracian",
+            "text": "Without courage, wisdom bears no fruit."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 63,
+        "fields": {
+            "author": "Aristotle",
+            "text": "Change in all things is sweet."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 64,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "What you fear is that which requires action to overcome."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 65,
+        "fields": {
+            "author": "Cullen Hightower",
+            "text": "When performance exceeds ambition, the overlap is called success."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 66,
+        "fields": {
+            "author": "African proverb",
+            "text": "When deeds speak, words are nothing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 67,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "Real magic in relationships means an absence of judgement of others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 68,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "I never think of the future. It comes soon enough."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 69,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Skill to do comes of doing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 70,
+        "fields": {
+            "author": "Sophocles",
+            "text": "Wisdom is the supreme part of happiness."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 71,
+        "fields": {
+            "author": "Maya Angelou",
+            "text": "I believe that every person is born with talent."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 72,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "Important principles may, and must, be inflexible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 73,
+        "fields": {
+            "author": "Richard Evans",
+            "text": "The undertaking of a new action brings new strength."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 74,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "The years teach much which the days never know."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 75,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Our distrust is very expensive."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 76,
+        "fields": {
+            "author": "Bodhidharma",
+            "text": "All know the way; few actually walk it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 77,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Great talent finds happiness in execution."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 78,
+        "fields": {
+            "author": "Michelangelo",
+            "text": "Faith in oneself is the best and safest course."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 79,
+        "fields": {
+            "author": "Winston Churchill",
+            "text": "Courage is going from failure to failure without losing enthusiasm."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 80,
+        "fields": {
+            "author": "Leo Tolstoy",
+            "text": "The two most powerful warriors are patience and time."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 81,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "Anticipate the difficult by managing the easy."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 82,
+        "fields": {
+            "author": "Buddha",
+            "text": "Those who are free of resentful thoughts surely find peace."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 83,
+        "fields": {
+            "author": "Sophocles",
+            "text": "A short saying often contains much wisdom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 84,
+        "fields": {
+            "author": "",
+            "text": "It takes both sunshine and rain to make a rainbow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 85,
+        "fields": {
+            "author": "",
+            "text": "A beautiful thing is never perfect."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 86,
+        "fields": {
+            "author": "Princess Diana",
+            "text": "Only do what your heart tells you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 87,
+        "fields": {
+            "author": "John Pierrakos",
+            "text": "Life is movement-we breathe, we eat, we walk, we move!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 88,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "No one can make you feel inferior without your consent."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 89,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Argue for your limitations, and sure enough theyre yours."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 90,
+        "fields": {
+            "author": "Seneca",
+            "text": "Luck is what happens when preparation meets opportunity."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 91,
+        "fields": {
+            "author": "Napoleon Bonaparte",
+            "text": "Victory belongs to the most persevering."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 92,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "Love all, trust a few, do wrong to none."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 93,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "In order to win, you must expect to win."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 94,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "A goal is a dream with a deadline."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 95,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "You can do it if you believe you can!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 96,
+        "fields": {
+            "author": "Bo Jackson",
+            "text": "Set your goals high, and don't stop till you get there."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 97,
+        "fields": {
+            "author": "",
+            "text": "Every new day is another chance to change your life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 98,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "Smile, breathe, and go slowly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 99,
+        "fields": {
+            "author": "Liberace",
+            "text": "Nobody will believe in you unless you believe in yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 100,
+        "fields": {
+            "author": "William Arthur Ward",
+            "text": "Do more than dream: work."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 101,
+        "fields": {
+            "author": "Seneca",
+            "text": "No man was ever wise by chance."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 102,
+        "fields": {
+            "author": "",
+            "text": "Some pursue happiness, others create it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 103,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "He that is giddy thinks the world turns round."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 104,
+        "fields": {
+            "author": "Ellen Gilchrist",
+            "text": "Don't ruin the present with the ruined past."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 105,
+        "fields": {
+            "author": "Albert Schweitzer",
+            "text": "Do something wonderful, people may imitate it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 106,
+        "fields": {
+            "author": "",
+            "text": "We do what we do because we believe."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 107,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "Do one thing every day that scares you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 108,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "If you cannot be silent be brilliant and thoughtful."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 109,
+        "fields": {
+            "author": "Carl Jung",
+            "text": "Who looks outside, dreams; who looks inside, awakes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 110,
+        "fields": {
+            "author": "Buddha",
+            "text": "What we think, we become."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 111,
+        "fields": {
+            "author": "Lord Herbert",
+            "text": "The shortest answer is doing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 112,
+        "fields": {
+            "author": "Leonardo da Vinci",
+            "text": "All our knowledge has its origins in our perceptions."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 113,
+        "fields": {
+            "author": "",
+            "text": "The harder you fall, the higher you bounce."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 114,
+        "fields": {
+            "author": "Anne Wilson Schaef",
+            "text": "Trusting our intuition often saves us from disaster."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 115,
+        "fields": {
+            "author": "Sojourner Truth",
+            "text": "Truth is powerful and it prevails."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 116,
+        "fields": {
+            "author": "Elizabeth Browning",
+            "text": "Light tomorrow with today!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 117,
+        "fields": {
+            "author": "German proverb",
+            "text": "Silence is a fence around wisdom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 118,
+        "fields": {
+            "author": "Madame de Stael",
+            "text": "Society develops wit, but its contemplation alone forms genius."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 119,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "The simplest things are often the truest."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 120,
+        "fields": {
+            "author": "",
+            "text": "Everyone smiles in the same language."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 121,
+        "fields": {
+            "author": "Bernadette Devlin",
+            "text": "Yesterday I dared to struggle. Today I dare to win."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 122,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "No alibi will save you from accepting the responsibility."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 123,
+        "fields": {
+            "author": "Walt Disney",
+            "text": "If you can dream it, you can do it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 124,
+        "fields": {
+            "author": "Buddha",
+            "text": "It is better to travel well than to arrive."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 125,
+        "fields": {
+            "author": "Anais Nin",
+            "text": "Life shrinks or expands in proportion to one's courage."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 126,
+        "fields": {
+            "author": "Sun Tzu",
+            "text": "You have to believe in yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 127,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "Our intention creates our reality."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 128,
+        "fields": {
+            "author": "Confucius",
+            "text": "Silence is a true friend who never betrays."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 129,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Character develops itself in the stream of life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 130,
+        "fields": {
+            "author": "American proverb",
+            "text": "From little acorns mighty oaks do grow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 131,
+        "fields": {
+            "author": "Jon Kabat-Zinn",
+            "text": "You can't stop the waves, but you can learn to surf."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 132,
+        "fields": {
+            "author": "Gustave Flaubert",
+            "text": "Reality does not conform to the ideal, but confirms it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 133,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "Speak low, if you speak love."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 134,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "A really great talent finds its happiness in execution."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 135,
+        "fields": {
+            "author": "John Lennon",
+            "text": "Reality leaves a lot to the imagination."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 136,
+        "fields": {
+            "author": "Seneca",
+            "text": "The greatest remedy for anger is delay."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 137,
+        "fields": {
+            "author": "Pearl Buck",
+            "text": "Growth itself contains the germ of happiness."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 138,
+        "fields": {
+            "author": "",
+            "text": "You can do what's reasonable or you can decide what's possible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 139,
+        "fields": {
+            "author": "Leonardo da Vinci",
+            "text": "Nothing strengthens authority so much as silence."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 140,
+        "fields": {
+            "author": "Confucius",
+            "text": "Wherever you go, go with all your heart."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 141,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "The only real valuable thing is intuition."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 142,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Good luck is another name for tenacity of purpose."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 143,
+        "fields": {
+            "author": "Sylvia Voirol",
+            "text": "Rainbows apologize for angry skies."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 144,
+        "fields": {
+            "author": "",
+            "text": "Friendship isn't a big thing. It's a million little things."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 145,
+        "fields": {
+            "author": "Theophrastus",
+            "text": "Time is the most valuable thing a man can spend."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 146,
+        "fields": {
+            "author": "Tony Robbins",
+            "text": "Whatever happens, take responsibility."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 147,
+        "fields": {
+            "author": "Oscar Wilde",
+            "text": "Experience is simply the name we give our mistakes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 148,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "I think and that is all that I am."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 149,
+        "fields": {
+            "author": "",
+            "text": "A good plan today is better than a perfect plan tomorrow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 150,
+        "fields": {
+            "author": "Gloria Steinem",
+            "text": "If the shoe doesn't fit, must we change the foot?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 151,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "Each day provides its own gifts."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 152,
+        "fields": {
+            "author": "Publilius Syrus",
+            "text": "While we stop to think, we often miss our opportunity."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 153,
+        "fields": {
+            "author": "Bernard Shaw",
+            "text": "Life isn't about finding yourself. Life is about creating yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 154,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "To bring anything into your life, imagine that it's already there."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 155,
+        "fields": {
+            "author": "German proverb",
+            "text": "Begin to weave and God will give you the thread."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 156,
+        "fields": {
+            "author": "Confucius",
+            "text": "The more you know yourself, the more you forgive yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 157,
+        "fields": {
+            "author": "",
+            "text": "Someone remembers, someone cares; your name is whispered in someone's prayers."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 158,
+        "fields": {
+            "author": "Mary Bethune",
+            "text": "Without faith, nothing is possible. With it, nothing is impossible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 159,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Once we accept our limits, we go beyond them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 160,
+        "fields": {
+            "author": "",
+            "text": "Don't be pushed by your problems; be led by your dreams."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 161,
+        "fields": {
+            "author": "Brian Tracy",
+            "text": "Whatever we expect with confidence becomes our own self-fulfilling prophecy."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 162,
+        "fields": {
+            "author": "Pablo Picasso",
+            "text": "Everything you can imagine is real."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 163,
+        "fields": {
+            "author": "Usman Asif",
+            "text": "Fear is a darkroom where negatives develop."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 164,
+        "fields": {
+            "author": "Napoleon Bonaparte",
+            "text": "The truest wisdom is a resolute determination."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 165,
+        "fields": {
+            "author": "Victor Hugo",
+            "text": "Life is the flower for which love is the honey."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 166,
+        "fields": {
+            "author": "Epictetus",
+            "text": "Freedom is the right to live as we wish."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 167,
+        "fields": {
+            "author": "",
+            "text": "Change your thoughts, change your life!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 168,
+        "fields": {
+            "author": "Robert Heller",
+            "text": "Never ignore a gut feeling, but never believe that it's enough."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 169,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "Loss is nothing else but change,and change is Natures delight."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 170,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Someone is special only if you tell them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 171,
+        "fields": {
+            "author": "",
+            "text": "Today is the tomorrow you worried about yesterday."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 172,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "There is no way to happiness, happiness is the way."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 173,
+        "fields": {
+            "author": "",
+            "text": "The day always looks brighter from behind a smile."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 174,
+        "fields": {
+            "author": "",
+            "text": "A stumble may prevent a fall."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 175,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "He who talks more is sooner exhausted."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 176,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "He who is contented is rich."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 177,
+        "fields": {
+            "author": "Plutarch",
+            "text": "What we achieve inwardly will change outer reality."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 178,
+        "fields": {
+            "author": "Ralph Waldo Emerson",
+            "text": "Our strength grows out of our weaknesses."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 179,
+        "fields": {
+            "author": "Mahatma Gandhi",
+            "text": "We must become the change we want to see."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 180,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Happiness is found in doing, not merely possessing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 181,
+        "fields": {
+            "author": "",
+            "text": "Put your future in good hands : your own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 182,
+        "fields": {
+            "author": "Wit",
+            "text": "We choose our destiny in the way we treat others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 183,
+        "fields": {
+            "author": "Voltaire",
+            "text": "No snowflake in an avalanche ever feels responsible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 184,
+        "fields": {
+            "author": "Virgil",
+            "text": "Fortune favours the brave."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 185,
+        "fields": {
+            "author": "Joseph Stalin",
+            "text": "I believe in one thing only, the power of human will."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 186,
+        "fields": {
+            "author": "Robert Frost",
+            "text": "The best way out is always through."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 187,
+        "fields": {
+            "author": "Seneca",
+            "text": "The mind unlearns with difficulty what it has long learned."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 188,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "I destroy my enemies when I make them my friends."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 189,
+        "fields": {
+            "author": "Thomas Fuller",
+            "text": "No garden is without its weeds."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 190,
+        "fields": {
+            "author": "Elbert Hubbard",
+            "text": "There is no failure except in no longer trying."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 191,
+        "fields": {
+            "author": "Turkish proverb",
+            "text": "Kind words will unlock an iron door."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 192,
+        "fields": {
+            "author": "Hugh Miller",
+            "text": "Problems are only opportunities with thorns on them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 193,
+        "fields": {
+            "author": "A. Powell Davies",
+            "text": "Life is just a chance to grow a soul."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 194,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Mountains cannot be surmounted except by winding paths."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 195,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "May our hearts garden of awakening bloom with hundreds of flowers."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 196,
+        "fields": {
+            "author": "John Dryden",
+            "text": "Fortune befriends the bold."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 197,
+        "fields": {
+            "author": "Friedrich von Schiller",
+            "text": "Keep true to the dreams of thy youth."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 198,
+        "fields": {
+            "author": "Mike Ditka",
+            "text": "You're never a loser until you quit trying."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 199,
+        "fields": {
+            "author": "Immanuel Kant",
+            "text": "Science is organized knowledge. Wisdom is organized life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 200,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Knowing is not enough; we must apply!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 201,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Strong beliefs win strong men, and then make them stronger."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 202,
+        "fields": {
+            "author": "Albert Camus",
+            "text": "Autumn is a second spring when every leaf is a flower."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 203,
+        "fields": {
+            "author": "Toni Morrison",
+            "text": "If you surrender to the wind, you can ride it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 204,
+        "fields": {
+            "author": "Helen Keller",
+            "text": "Keep yourself to the sunshine and you cannot see the shadow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 205,
+        "fields": {
+            "author": "Paulo Coelho",
+            "text": "Write your plans in pencil and give God the eraser."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 206,
+        "fields": {
+            "author": "Pablo Picasso",
+            "text": "Inspiration exists, but it has to find us working."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 207,
+        "fields": {
+            "author": "Jonathan Kozol",
+            "text": "Pick battles big enough to matter, small enough to win."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 208,
+        "fields": {
+            "author": "Janis Joplin",
+            "text": "Don't compromise yourself. You are all you've got."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 209,
+        "fields": {
+            "author": "Sophocles",
+            "text": "A short saying oft contains much wisdom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 210,
+        "fields": {
+            "author": "Epictetus",
+            "text": "Difficulties are things that show a person what they are."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 211,
+        "fields": {
+            "author": "Honore de Balzac",
+            "text": "When you doubt your power, you give power to your doubt."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 212,
+        "fields": {
+            "author": "Ovid",
+            "text": "The cause is hidden. The effect is visible to all."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 213,
+        "fields": {
+            "author": "Francis Bacon",
+            "text": "A prudent question is one half of wisdom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 214,
+        "fields": {
+            "author": "Tony Robbins",
+            "text": "The path to success is to take massive, determined action."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 215,
+        "fields": {
+            "author": "Manuel Puig",
+            "text": "I allow my intuition to lead my path."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 216,
+        "fields": {
+            "author": "William R. Inge",
+            "text": "Nature takes away any faculty that is not used."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 217,
+        "fields": {
+            "author": "Epictetus",
+            "text": "If you wish to be a writer, write."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 218,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "There is no way to prosperity, prosperity is the way."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 219,
+        "fields": {
+            "author": "Jim Rohn",
+            "text": "Either you run the day or the day runs you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 220,
+        "fields": {
+            "author": "Publilius Syrus",
+            "text": "Better be ignorant of a matter than half know it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 221,
+        "fields": {
+            "author": "Oprah Winfrey",
+            "text": "Follow your instincts. That is where true wisdom manifests itself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 222,
+        "fields": {
+            "author": "Benjamin Franklin",
+            "text": "There never was a good knife made of bad steel."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 223,
+        "fields": {
+            "author": "Anatole France",
+            "text": "To accomplish great things, we must dream as well as act."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 224,
+        "fields": {
+            "author": "Saint Augustine",
+            "text": "Patience is the companion of wisdom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 225,
+        "fields": {
+            "author": "Buddha",
+            "text": "The mind is everything. What you think you become."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 226,
+        "fields": {
+            "author": "Voltaire",
+            "text": "To enjoy life, we must touch much of it lightly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 227,
+        "fields": {
+            "author": "Maya Lin",
+            "text": "To fly, we have to have resistance."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 228,
+        "fields": {
+            "author": "",
+            "text": "What you see depends on what you're looking for."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 229,
+        "fields": {
+            "author": "Blaise Pascal",
+            "text": "The heart has its reasons which reason knows not of."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 230,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "Be great in act, as you have been in thought."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 231,
+        "fields": {
+            "author": "Napoleon Bonaparte",
+            "text": "Imagination rules the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 232,
+        "fields": {
+            "author": "Blaise Pascal",
+            "text": "Kind words do not cost much. Yet they accomplish much."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 233,
+        "fields": {
+            "author": "Michelangelo",
+            "text": "There is no greater harm than that of time wasted."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 234,
+        "fields": {
+            "author": "Jonas Salk",
+            "text": "Intuition will tell the thinking mind where to look next."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 235,
+        "fields": {
+            "author": "",
+            "text": "Worry gives a small thing a big shadow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 236,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Fears are nothing more than a state of mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 237,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "The journey of a thousand miles begins with one step."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 238,
+        "fields": {
+            "author": "Peter Drucker",
+            "text": "Efficiency is doing things right; effectiveness is doing the right things."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 239,
+        "fields": {
+            "author": "Luisa Sigea",
+            "text": "Blaze with the fire that is never extinguished."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 240,
+        "fields": {
+            "author": "Dr. Seuss",
+            "text": "Don't cry because it's over. Smile because it happened."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 241,
+        "fields": {
+            "author": "Jason Fried",
+            "text": "No is easier to do. Yes is easier to say."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 242,
+        "fields": {
+            "author": "Confucius",
+            "text": "To be wrong is nothing unless you continue to remember it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 243,
+        "fields": {
+            "author": "Babe Ruth",
+            "text": "Yesterdays home runs don't win today's games."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 244,
+        "fields": {
+            "author": "Carlyle",
+            "text": "Silence is deep as Eternity, Speech is shallow as Time."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 245,
+        "fields": {
+            "author": "Leo F. Buscaglia",
+            "text": "Don't smother each other. No one can grow in the shade."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 246,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "An ant on the move does more than a dozing ox"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 247,
+        "fields": {
+            "author": "Indira Gandhi",
+            "text": "You can't shake hands with a clenched fist."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 248,
+        "fields": {
+            "author": "Plato",
+            "text": "A good decision is based on knowledge and not on numbers."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 249,
+        "fields": {
+            "author": "Confucius",
+            "text": "The cautious seldom err."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 250,
+        "fields": {
+            "author": "Frederick Douglass",
+            "text": "If there is no struggle, there is no progress."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 251,
+        "fields": {
+            "author": "Willa Cather",
+            "text": "Where there is great love, there are always miracles."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 252,
+        "fields": {
+            "author": "John Lennon",
+            "text": "Time you enjoy wasting, was not wasted."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 253,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Every problem has a gift for you in its hands."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 254,
+        "fields": {
+            "author": "Jean de la Fontaine",
+            "text": "Sadness flies away on the wings of time."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 255,
+        "fields": {
+            "author": "Publilius Syrus",
+            "text": "I have often regretted my speech, never my silence."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 256,
+        "fields": {
+            "author": "Thomas Jefferson",
+            "text": "Never put off till tomorrow what you can do today."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 257,
+        "fields": {
+            "author": "Thomas Dewar",
+            "text": "Minds are like parachutes. They only function when open."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 258,
+        "fields": {
+            "author": "George Patton",
+            "text": "If a man does his best, what else is there?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 259,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "The secret of success is constancy to purpose."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 260,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Life is a progress, and not a station."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 261,
+        "fields": {
+            "author": "Horace Friess",
+            "text": "All seasons are beautiful for the person who carries happiness within."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 262,
+        "fields": {
+            "author": "Elbert Hubbard",
+            "text": "To avoid criticism, do nothing, say nothing, be nothing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 263,
+        "fields": {
+            "author": "Ovid",
+            "text": "All things change; nothing perishes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 264,
+        "fields": {
+            "author": "Haynes Bayly",
+            "text": "Absence makes the heart grow fonder."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 265,
+        "fields": {
+            "author": "Lauren Bacall",
+            "text": "Imagination is the highest kite one can fly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 266,
+        "fields": {
+            "author": "Frank Herbert",
+            "text": "The beginning of knowledge is the discovery of something we do not understand."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 267,
+        "fields": {
+            "author": "Elizabeth Browning",
+            "text": "Love doesn't make the world go round, love is what makes the ride worthwhile."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 268,
+        "fields": {
+            "author": "Arthur Conan Doyle",
+            "text": "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 269,
+        "fields": {
+            "author": "J. Willard Marriott",
+            "text": "Good timber does not grow with ease; the stronger the wind, the stronger the trees."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 270,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "I believe that we are fundamentally the same and have the same basic potential."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 271,
+        "fields": {
+            "author": "Edward Gibbon",
+            "text": "The winds and waves are always on the side of the ablest navigators."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 272,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "The future belongs to those who believe in the beauty of their dreams."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 273,
+        "fields": {
+            "author": "",
+            "text": "To get something you never had, you have to do something you never did."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 274,
+        "fields": {
+            "author": "",
+            "text": "Be thankful when you don't know something for it gives you the opportunity to learn."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 275,
+        "fields": {
+            "author": "Mahatma Gandhi",
+            "text": "Strength does not come from physical capacity. It comes from an indomitable will."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 276,
+        "fields": {
+            "author": "Og Mandino",
+            "text": "Each misfortune you encounter will carry in it the seed of tomorrows good luck."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 277,
+        "fields": {
+            "author": "Lewis B. Smedes",
+            "text": "To forgive is to set a prisoner free and realize that prisoner was you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 278,
+        "fields": {
+            "author": "Buddha",
+            "text": "In separateness lies the world's great misery, in compassion lies the world's true strength."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 279,
+        "fields": {
+            "author": "Nikos Kazantzakis",
+            "text": "By believing passionately in something that does not yet exist, we create it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 280,
+        "fields": {
+            "author": "",
+            "text": "Letting go isn't the end of the world; it's the beginning of a new life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 281,
+        "fields": {
+            "author": "John Eliot",
+            "text": "All the great performers I have worked with are fuelled by a personal dream."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 282,
+        "fields": {
+            "author": "A. A. Milne",
+            "text": "One of the advantages of being disorderly is that one is constantly making exciting discoveries."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 283,
+        "fields": {
+            "author": "Marie Curie",
+            "text": "I never see what has been done; I only see what remains to be done."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 284,
+        "fields": {
+            "author": "Seneca",
+            "text": "Begin at once to live and count each separate day as a separate life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 285,
+        "fields": {
+            "author": "Lawrence Peter",
+            "text": "If you don't know where you are going, you will probably end up somewhere else."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 286,
+        "fields": {
+            "author": "Hannah More",
+            "text": "It is not so important to know everything as to appreciate what we learn."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 287,
+        "fields": {
+            "author": "John Berry",
+            "text": "The bird of paradise alights only upon the hand that does not grasp."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 288,
+        "fields": {
+            "author": "William Yeats",
+            "text": "Think as a wise man but communicate in the language of the people."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 289,
+        "fields": {
+            "author": "Epictetus",
+            "text": "Practice yourself, for heavens sake in little things, and then proceed to greater."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 290,
+        "fields": {
+            "author": "Seneca",
+            "text": "If one does not know to which port is sailing, no wind is favorable."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 291,
+        "fields": {
+            "author": "",
+            "text": "Our greatest glory is not in never failing but rising everytime we fall."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 292,
+        "fields": {
+            "author": "",
+            "text": "Being right is highly overrated. Even a stopped clock is right twice a day."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 293,
+        "fields": {
+            "author": "Ken S. Keyes",
+            "text": "To be upset over what you don't have is to waste what you do have."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 294,
+        "fields": {
+            "author": "Thomas Edison",
+            "text": "If we did the things we are capable of, we would astound ourselves."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 295,
+        "fields": {
+            "author": "Marie Curie",
+            "text": "Nothing in life is to be feared. It is only to be understood."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 296,
+        "fields": {
+            "author": "Tony Robbins",
+            "text": "Successful people ask better questions, and as a result, they get better answers."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 297,
+        "fields": {
+            "author": "",
+            "text": "Love is not blind; it simply enables one to see things others fail to see."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 298,
+        "fields": {
+            "author": "Anne Schaef",
+            "text": "Life is a process. We are a process. The universe is a process."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 299,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "I think somehow we learn who we really are and then live with that decision."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 300,
+        "fields": {
+            "author": "Kenneth Patton",
+            "text": "We learn what we have said from those who listen to our speaking."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 301,
+        "fields": {
+            "author": "Kahlil Gibran",
+            "text": "A little knowledge that acts is worth infinitely more than much knowledge that is idle."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 302,
+        "fields": {
+            "author": "",
+            "text": "If you get up one more time than you fall, you will make it through."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 303,
+        "fields": {
+            "author": "Flora Whittemore",
+            "text": "The doors we open and close each day decide the lives we live."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 304,
+        "fields": {
+            "author": "H. W. Arnold",
+            "text": "The worst bankrupt in the world is the person who has lost his enthusiasm."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 305,
+        "fields": {
+            "author": "Buddha",
+            "text": "Happiness comes when your work and words are of benefit to yourself and others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 306,
+        "fields": {
+            "author": "",
+            "text": "Don't focus on making the right decision, focus on making the decision the right one."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 307,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "Everything is perfect in the universe, even your desire to improve it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 308,
+        "fields": {
+            "author": "Eden Phillpotts",
+            "text": "The universe is full of magical things, patiently waiting for our wits to grow sharper."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 309,
+        "fields": {
+            "author": "Buddha",
+            "text": "Just as a candle cannot burn without fire, men cannot live without a spiritual life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 310,
+        "fields": {
+            "author": "Mark Twain",
+            "text": "A thing long expected takes the form of the unexpected when at last it comes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 311,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "Action may not always bring happiness; but there is no happiness without action."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 312,
+        "fields": {
+            "author": "Oprah Winfrey",
+            "text": "I don't believe in failure. It is not failure if you enjoyed the process."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 313,
+        "fields": {
+            "author": "Confucius",
+            "text": "What you do not want done to yourself, do not do to others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 314,
+        "fields": {
+            "author": "Winston Churchill",
+            "text": "Short words are best and the old words when short are best of all."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 315,
+        "fields": {
+            "author": "Buddha",
+            "text": "If you light a lamp for somebody, it will also brighten your path."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 316,
+        "fields": {
+            "author": "Lin-yutang",
+            "text": "I have done my best: that is about all the philosophy of living one needs."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 317,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "Through perseverance many people win success out of what seemed destined to be certain failure."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 318,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Give thanks for the rain of life that propels us to reach new horizons."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 319,
+        "fields": {
+            "author": "",
+            "text": "Love is just a word until someone comes along and gives it meaning."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 320,
+        "fields": {
+            "author": "",
+            "text": "We all have problems. The way we solve them is what makes us different."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 321,
+        "fields": {
+            "author": "Dave Weinbaum",
+            "text": "The secret to a rich life is to have more beginnings than endings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 322,
+        "fields": {
+            "author": "Ralph Waldo Emerson",
+            "text": "It is only when the mind and character slumber that the dress can be seen."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 323,
+        "fields": {
+            "author": "Maya Angelou",
+            "text": "If you don't like something, change it. If you can't change it, change your attitude."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 324,
+        "fields": {
+            "author": "Confucius",
+            "text": "Reviewing what you have learned and learning anew, you are fit to be a teacher."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 325,
+        "fields": {
+            "author": "Augustinus Sanctus",
+            "text": "The world is a book, and those who do not travel read only a page."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 326,
+        "fields": {
+            "author": "Henri-Frederic Amiel",
+            "text": "So long as a person is capable of self-renewal they are a living being."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 327,
+        "fields": {
+            "author": "Louisa Alcott",
+            "text": "I'm not afraid of storms, for Im learning how to sail my ship."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 328,
+        "fields": {
+            "author": "Voltaire",
+            "text": "Think for yourselves and let others enjoy the privilege to do so too."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 329,
+        "fields": {
+            "author": "Annie Dillard",
+            "text": "How we spend our days is, of course, how we spend our lives."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 330,
+        "fields": {
+            "author": "Man Ray",
+            "text": "It has never been my object to record my dreams, just to realize them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 331,
+        "fields": {
+            "author": "Sigmund Freud",
+            "text": "The most complicated achievements of thought are possible without the assistance of consciousness."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 332,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 333,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Most great people have attained their greatest success just one step beyond their greatest failure."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 334,
+        "fields": {
+            "author": "Henry Ford",
+            "text": "If you think you can, you can. And if you think you can't, you're right."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 335,
+        "fields": {
+            "author": "St. Augustine",
+            "text": "Better to have loved and lost, than to have never loved at all."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 336,
+        "fields": {
+            "author": "Leo Tolstoy",
+            "text": "Everyone thinks of changing the world, but no one thinks of changing himself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 337,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "The best way to pay for a lovely moment is to enjoy it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 338,
+        "fields": {
+            "author": "Winston Churchill",
+            "text": "You have enemies? Good. That means you've stood up for something, sometime in your life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 339,
+        "fields": {
+            "author": "John De Paola",
+            "text": "Slow down and everything you are chasing will come around and catch you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 340,
+        "fields": {
+            "author": "Buddha",
+            "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 341,
+        "fields": {
+            "author": "Lily Tomlin",
+            "text": "I always wanted to be somebody, but I should have been more specific."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 342,
+        "fields": {
+            "author": "John Lennon",
+            "text": "Yeah we all shine on, like the moon, and the stars, and the sun."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 343,
+        "fields": {
+            "author": "Martin Fischer",
+            "text": "Knowledge is a process of piling up facts; wisdom lies in their simplification."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 344,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Life is like riding a bicycle. To keep your balance you must keep moving."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 345,
+        "fields": {
+            "author": "Albert Schweitzer",
+            "text": "We should all be thankful for those people who rekindle the inner spirit."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 346,
+        "fields": {
+            "author": "Thomas Edison",
+            "text": "Opportunity is missed by most because it is dressed in overalls and looks like work."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 347,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Feeling and longing are the motive forces behind all human endeavor and human creations."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 348,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "In the end we retain from our studies only that which we practically apply."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 349,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "If you correct your mind, the rest of your life will fall into place."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 350,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "The world makes way for the man who knows where he is going."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 351,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "When your desires are strong enough you will appear to possess superhuman powers to achieve."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 352,
+        "fields": {
+            "author": "John Adams",
+            "text": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 353,
+        "fields": {
+            "author": "Henry David Thoreau",
+            "text": "I cannot make my days longer so I strive to make them better."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 354,
+        "fields": {
+            "author": "Chinese proverb",
+            "text": "Tension is who you think you should be. Relaxation is who you are."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 355,
+        "fields": {
+            "author": "Helen Keller",
+            "text": "Never bend your head. Always hold it high. Look the world right in the eye."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 356,
+        "fields": {
+            "author": "Albert Schweitzer",
+            "text": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 357,
+        "fields": {
+            "author": "Calvin Coolidge",
+            "text": "We cannot do everything at once, but we can do something at once."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 358,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "You have to do your own growing no matter how tall your grandfather was."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 359,
+        "fields": {
+            "author": "",
+            "text": "Invent your world. Surround yourself with people, color, sounds, and work that nourish you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 360,
+        "fields": {
+            "author": "General Douglas MacArthur",
+            "text": "It is fatal to enter any war without the will to win it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 361,
+        "fields": {
+            "author": "Julius Charles Hare",
+            "text": "Be what you are. This is the first step toward becoming better than you are."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 362,
+        "fields": {
+            "author": "Buckminster Fuller",
+            "text": "There is nothing in a caterpillar that tells you it's going to be a butterfly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 363,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "Love and compassion open our own inner life, reducing stress, distrust and loneliness."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 364,
+        "fields": {
+            "author": "Walter Lippmann",
+            "text": "Ideals are an imaginative understanding of that which is desirable in that which is possible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 365,
+        "fields": {
+            "author": "Confucius",
+            "text": "The superior man is satisfied and composed; the mean man is always full of distress."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 366,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "If you spend too much time thinking about a thing, you'll never get it done."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 367,
+        "fields": {
+            "author": "Buddha",
+            "text": "The way is not in the sky. The way is in the heart."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 368,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "Most people are about as happy as they make up their minds to be"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 369,
+        "fields": {
+            "author": "Buddha",
+            "text": "Three things cannot be long hidden: the sun, the moon, and the truth."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 370,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "More often than not, anger is actually an indication of weakness rather than of strength."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 371,
+        "fields": {
+            "author": "Jim Beggs",
+            "text": "Before you put on a frown, make absolutely sure there are no smiles available."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 372,
+        "fields": {
+            "author": "Donald Kircher",
+            "text": "A man of ability and the desire to accomplish something can do anything."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 373,
+        "fields": {
+            "author": "Buddha",
+            "text": "You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 374,
+        "fields": {
+            "author": "Eckhart Tolle",
+            "text": "It is not uncommon for people to spend their whole life waiting to start living."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 375,
+        "fields": {
+            "author": "H. Jackson Browne",
+            "text": "Don't be afraid to go out on a limb. That's where the fruit is."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 376,
+        "fields": {
+            "author": "Marquis Vauvenargues",
+            "text": "Wicked people are always surprised to find ability in those that are good."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 377,
+        "fields": {
+            "author": "Charlotte Bronte",
+            "text": "Life is so constructed that an event does not, cannot, will not, match the expectation."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 378,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "If you change the way you look at things, the things you look at change."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 379,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "No man can succeed in a line of endeavor which he does not like."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 380,
+        "fields": {
+            "author": "Buddha",
+            "text": "You will not be punished for your anger, you will be punished by your anger."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 381,
+        "fields": {
+            "author": "Robert Stevenson",
+            "text": "Don't judge each day by the harvest you reap but by the seeds you plant."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 382,
+        "fields": {
+            "author": "Andy Warhol",
+            "text": "They say that time changes things, but you actually have to change them yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 383,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "Never apologize for showing feelings. When you do so, you apologize for the truth."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 384,
+        "fields": {
+            "author": "Pema Chodron",
+            "text": "The truth you believe and cling to makes you unavailable to hear anything new."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 385,
+        "fields": {
+            "author": "Horace",
+            "text": "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 386,
+        "fields": {
+            "author": "Morris West",
+            "text": "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 387,
+        "fields": {
+            "author": "Franklin Roosevelt",
+            "text": "The only limit to our realization of tomorrow will be our doubts of today."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 388,
+        "fields": {
+            "author": "Edwin Chapin",
+            "text": "Every action of our lives touches on some chord that will vibrate in eternity."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 389,
+        "fields": {
+            "author": "Les Brown",
+            "text": "Shoot for the moon. Even if you miss, you'll land among the stars."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 390,
+        "fields": {
+            "author": "Confucius",
+            "text": "It does not matter how slowly you go as long as you do not stop."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 391,
+        "fields": {
+            "author": "",
+            "text": "Every day may not be good, but there's something good in every day."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 392,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "Most folks are about as happy as they make up their minds to be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 393,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "If you would take, you must first give, this is the beginning of intelligence."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 394,
+        "fields": {
+            "author": "",
+            "text": "Some people think it's holding that makes one strong, sometimes it's letting go."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 395,
+        "fields": {
+            "author": "Havelock Ellis",
+            "text": "It is on our failures that we base a new and different and better success."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 396,
+        "fields": {
+            "author": "John Ruskin",
+            "text": "Quality is never an accident; it is always the result of intelligent effort."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 397,
+        "fields": {
+            "author": "Confucius",
+            "text": "To study and not think is a waste. To think and not study is dangerous."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 398,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Life is a succession of lessons, which must be lived to be understood."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 399,
+        "fields": {
+            "author": "Thomas Hardy",
+            "text": "Time changes everything except something within us which is always surprised by change."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 400,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "You are important enough to ask and you are blessed enough to receive back."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 401,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "If you cannot do great things, do small things in a great way."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 402,
+        "fields": {
+            "author": "Oprah Winfrey",
+            "text": "If you want your life to be more rewarding, you have to change the way you think."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 403,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 404,
+        "fields": {
+            "author": "Leonardo Ruiz",
+            "text": "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 405,
+        "fields": {
+            "author": "Leon Blum",
+            "text": "The free man is he who does not fear to go to the end of his thought."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 406,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 407,
+        "fields": {
+            "author": "Bernard Shaw",
+            "text": "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 408,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 409,
+        "fields": {
+            "author": "Charles Dickens",
+            "text": "Don't leave a stone unturned. It's always something, to know you have done the most you could."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 410,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 411,
+        "fields": {
+            "author": "Sam Keen",
+            "text": "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 412,
+        "fields": {
+            "author": "Walt Emerson",
+            "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 413,
+        "fields": {
+            "author": "John Astin",
+            "text": "There are things so deep and complex that only intuition can reach it in our stage of development as human beings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 414,
+        "fields": {
+            "author": "Elbert Hubbard",
+            "text": "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 415,
+        "fields": {
+            "author": "Henry Moore",
+            "text": "There is no retirement for an artist, it's your way of living so there is no end to it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 416,
+        "fields": {
+            "author": "Confucius",
+            "text": "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 417,
+        "fields": {
+            "author": "",
+            "text": "Why worry about things you can't control when you can keep yourself busy controlling the things that depend on you?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 418,
+        "fields": {
+            "author": "Laozi",
+            "text": "When you are content to be simply yourself and don't compare or compete, everybody will respect you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 419,
+        "fields": {
+            "author": "William Shakespeare",
+            "text": "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 420,
+        "fields": {
+            "author": "George Sheehan",
+            "text": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 421,
+        "fields": {
+            "author": "Thomas Jefferson",
+            "text": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 422,
+        "fields": {
+            "author": "Antoine de Saint-Exupery",
+            "text": "It is only with the heart that one can see rightly, what is essential is invisible to the eye."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 423,
+        "fields": {
+            "author": "Marcel Proust",
+            "text": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 424,
+        "fields": {
+            "author": "Epictetus",
+            "text": "Make the best use of what is in your power, and take the rest as it happens."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 425,
+        "fields": {
+            "author": "Louise Hay",
+            "text": "The thoughts we choose to think are the tools we use to paint the canvas of our lives."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 426,
+        "fields": {
+            "author": "W. Clement Stone",
+            "text": "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 427,
+        "fields": {
+            "author": "Robert McKain",
+            "text": "The reason most goals are not achieved is that we spend our time doing second things first."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 428,
+        "fields": {
+            "author": "John Quincy Adams",
+            "text": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 429,
+        "fields": {
+            "author": "Thomas Jefferson",
+            "text": "I'm a great believer in luck and I find the harder I work, the more I have of it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 430,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 431,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "The person born with a talent they are meant to use will find their greatest happiness in using it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 432,
+        "fields": {
+            "author": "William Saroyan",
+            "text": "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 433,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 434,
+        "fields": {
+            "author": "Leonardo da Vinci",
+            "text": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 435,
+        "fields": {
+            "author": "Isaac Asimov",
+            "text": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 436,
+        "fields": {
+            "author": "Henry Van Dyke",
+            "text": "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 437,
+        "fields": {
+            "author": "Yogi Berra",
+            "text": "You got to be careful if you don't know where you're going, because you might not get there."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 438,
+        "fields": {
+            "author": "Naguib Mahfouz",
+            "text": "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 439,
+        "fields": {
+            "author": "Anthony Robbins",
+            "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 440,
+        "fields": {
+            "author": "John Wooden",
+            "text": "You can't let praise or criticism get to you. It's a weakness to get caught up in either one."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 441,
+        "fields": {
+            "author": "Og Mandino",
+            "text": "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 442,
+        "fields": {
+            "author": "Jane Addams",
+            "text": "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 443,
+        "fields": {
+            "author": "Thomas Carlyle",
+            "text": "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 444,
+        "fields": {
+            "author": "M. Scott Peck",
+            "text": "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 445,
+        "fields": {
+            "author": "Maureen Dowd",
+            "text": "The minute you settle for less than you deserve, you get even less than you settled for."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 446,
+        "fields": {
+            "author": "Charles Darwin",
+            "text": "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 447,
+        "fields": {
+            "author": "",
+            "text": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 448,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 449,
+        "fields": {
+            "author": "Christopher Morley",
+            "text": "There is only one success, to be able to spend your life in your own way."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 450,
+        "fields": {
+            "author": "Hannah Arendt",
+            "text": "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 451,
+        "fields": {
+            "author": "Alan Cohen",
+            "text": "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 452,
+        "fields": {
+            "author": "Aldous Huxley",
+            "text": "There is only one corner of the universe you can be certain of improving, and that's your own self."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 453,
+        "fields": {
+            "author": "Marian Edelman",
+            "text": "You're not obligated to win. You're obligated to keep trying to do the best you can every day."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 454,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 455,
+        "fields": {
+            "author": "Sue Patton Thoele",
+            "text": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 456,
+        "fields": {
+            "author": "Frank Crane",
+            "text": "You may be deceived if you trust too much, but you will live in torment if you don't trust enough."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 457,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 458,
+        "fields": {
+            "author": "Kathleen Norris",
+            "text": "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 459,
+        "fields": {
+            "author": "Confucius",
+            "text": "Choose a job you love, and you will never have to work a day in your life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 460,
+        "fields": {
+            "author": "Eckhart Tolle",
+            "text": "You cannot find yourself by going into the past. You can find yourself by coming into the present."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 461,
+        "fields": {
+            "author": "Anne Bronte",
+            "text": "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 462,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 463,
+        "fields": {
+            "author": "Desiderius Erasmus",
+            "text": "The fox has many tricks. The hedgehog has but one. But that is the best of all."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 464,
+        "fields": {
+            "author": "Arthur Rubinstein",
+            "text": "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 465,
+        "fields": {
+            "author": "Louis Pasteur",
+            "text": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 466,
+        "fields": {
+            "author": "Rumi",
+            "text": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 467,
+        "fields": {
+            "author": "Sogyal Rinpoche",
+            "text": "We must never forget that it is through our actions, words, and thoughts that we have a choice."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 468,
+        "fields": {
+            "author": "Dennis Kimbro",
+            "text": "We see things not as they are, but as we are. Our perception is shaped by our previous experiences."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 469,
+        "fields": {
+            "author": "William Penn",
+            "text": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 470,
+        "fields": {
+            "author": "Immanuel Kant",
+            "text": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 471,
+        "fields": {
+            "author": "Buddha",
+            "text": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 472,
+        "fields": {
+            "author": "",
+            "text": "As the rest of the world is walking out the door, your best friends are the ones walking in."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 473,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 474,
+        "fields": {
+            "author": "Robert Lynd",
+            "text": "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 475,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 476,
+        "fields": {
+            "author": "Donald Trump",
+            "text": "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 477,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 478,
+        "fields": {
+            "author": "Robert Fulghum",
+            "text": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 479,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "A wise man can learn more from a foolish question than a fool can learn from a wise answer."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 480,
+        "fields": {
+            "author": "Arthur Schopenhauer",
+            "text": "Every man takes the limits of his own field of vision for the limits of the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 481,
+        "fields": {
+            "author": "Andre Gide",
+            "text": "One does not discover new lands without consenting to lose sight of the shore for a very long time."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 482,
+        "fields": {
+            "author": "Sai Baba",
+            "text": "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 483,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 484,
+        "fields": {
+            "author": "Tom Lehrer",
+            "text": "Life is like a sewer. What you get out of it depends on what you put into it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 485,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 486,
+        "fields": {
+            "author": "Alfred Sheinwold",
+            "text": "Learn all you can from the mistakes of others. You won't have time to make them all yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 487,
+        "fields": {
+            "author": "Sri Chinmoy",
+            "text": "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 488,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 489,
+        "fields": {
+            "author": "James Freeman Clarke",
+            "text": "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 490,
+        "fields": {
+            "author": "Anais Nin",
+            "text": "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 491,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "Everything that happens happens as it should, and if you observe carefully, you will find this to be so."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 492,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 493,
+        "fields": {
+            "author": "Buddha",
+            "text": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 494,
+        "fields": {
+            "author": "Sydney Smith",
+            "text": "It is the greatest of all mistakes to do nothing because you can only do little, do what you can."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 495,
+        "fields": {
+            "author": "Confucius",
+            "text": "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 496,
+        "fields": {
+            "author": "Mary Kay Ash",
+            "text": "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 497,
+        "fields": {
+            "author": "Lloyd Jones",
+            "text": "Those who try to do something and fail are infinitely better than those who try nothing and succeed."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 498,
+        "fields": {
+            "author": "Vista Kelly",
+            "text": "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 499,
+        "fields": {
+            "author": "Ben Stein",
+            "text": "The first step to getting the things you want out of life is this: decide what you want."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 500,
+        "fields": {
+            "author": "",
+            "text": "Why compare yourself with others? No one in the entire world can do a better job of being you than you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 501,
+        "fields": {
+            "author": "Aldous Huxley",
+            "text": "Experience is not what happens to a man. It is what a man does with what happens to him."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 502,
+        "fields": {
+            "author": "",
+            "text": "A good teacher is like a candle, it consumes itself to light the way for others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 503,
+        "fields": {
+            "author": "Oscar Wilde",
+            "text": "The only thing to do with good advice is to pass it on. It is never of any use to oneself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 504,
+        "fields": {
+            "author": "",
+            "text": "Life is not measured by the breaths we take, but by the moments that take our breath."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 505,
+        "fields": {
+            "author": "Honore de Balzac",
+            "text": "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 506,
+        "fields": {
+            "author": "Jacob Braude",
+            "text": "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 507,
+        "fields": {
+            "author": "Vince Lombardi",
+            "text": "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 508,
+        "fields": {
+            "author": "Oliver Holmes",
+            "text": "What lies behind us and what lies before us are small matters compared to what lies within us."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 509,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "With the realization of ones own potential and self-confidence in ones ability, one can build a better world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 510,
+        "fields": {
+            "author": "Nelson Mandela",
+            "text": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 511,
+        "fields": {
+            "author": "Robert Anthony",
+            "text": "Forget about all the reasons why something may not work. You only need to find one good reason why it will."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 512,
+        "fields": {
+            "author": "Aristotle",
+            "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 513,
+        "fields": {
+            "author": "Washington Irving",
+            "text": "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 514,
+        "fields": {
+            "author": "Anne Frank",
+            "text": "We all live with the objective of being happy; our lives are all different and yet the same."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 515,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 516,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 517,
+        "fields": {
+            "author": "Buddha",
+            "text": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 518,
+        "fields": {
+            "author": "Jessamyn West",
+            "text": "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 519,
+        "fields": {
+            "author": "Plato",
+            "text": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 520,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 521,
+        "fields": {
+            "author": "Charlotte Gilman",
+            "text": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 522,
+        "fields": {
+            "author": "Mother Teresa",
+            "text": "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 523,
+        "fields": {
+            "author": "Margaret Runbeck",
+            "text": "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 524,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 525,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 526,
+        "fields": {
+            "author": "Ovid",
+            "text": "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 527,
+        "fields": {
+            "author": "Og Mandino",
+            "text": "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 528,
+        "fields": {
+            "author": "James Barrie",
+            "text": "We never understand how little we need in this world until we know the loss of it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 529,
+        "fields": {
+            "author": "",
+            "text": "The real measure of your wealth is how much youd be worth if you lost all your money."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 530,
+        "fields": {
+            "author": "Buddha",
+            "text": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 531,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "Take no thought of who is right or wrong or who is better than. Be not for or against."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 532,
+        "fields": {
+            "author": "Everett Dirksen",
+            "text": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 533,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 534,
+        "fields": {
+            "author": "Henry Miller",
+            "text": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 535,
+        "fields": {
+            "author": "Lao Tzu",
+            "text": "At the center of your being you have the answer; you know who you are and you know what you want."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 536,
+        "fields": {
+            "author": "Niels Bohr",
+            "text": "How wonderful that we have met with a paradox. Now we have some hope of making progress."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 537,
+        "fields": {
+            "author": "Georg Lichtenberg",
+            "text": "Everyone is a genius at least once a year. A real genius has his original ideas closer together."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 538,
+        "fields": {
+            "author": "Anais Nin",
+            "text": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 539,
+        "fields": {
+            "author": "Gloria Steinem",
+            "text": "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 540,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Sadness may be part of life but there is no need to let it dominate your entire life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 541,
+        "fields": {
+            "author": "Charles Schwab",
+            "text": "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 542,
+        "fields": {
+            "author": "Epictetus",
+            "text": "Nature gave us one tongue and two ears so we could hear twice as much as we speak."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 543,
+        "fields": {
+            "author": "Barbara Baron",
+            "text": "Don't wait for your feelings to change to take the action. Take the action and your feelings will change."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 544,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "You are always free to change your mind and choose a different future, or a different past."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 545,
+        "fields": {
+            "author": "Lou Holtz",
+            "text": "You were not born a winner, and you were not born a loser. You are what you make yourself be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 546,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 547,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 548,
+        "fields": {
+            "author": "Robert Stevenson",
+            "text": "To be what we are, and to become what we are capable of becoming, is the only end of life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 549,
+        "fields": {
+            "author": "Charles DeLint",
+            "text": "The road leading to a goal does not separate you from the destination; it is essentially a part of it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 550,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "Take things as they are. Punch when you have to punch. Kick when you have to kick."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 551,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 552,
+        "fields": {
+            "author": "",
+            "text": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 553,
+        "fields": {
+            "author": "Paavo Nurmi",
+            "text": "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 554,
+        "fields": {
+            "author": "Anne Frank",
+            "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 555,
+        "fields": {
+            "author": "",
+            "text": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 556,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "It is one of the blessings of old friends that you can afford to be stupid with them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 557,
+        "fields": {
+            "author": "Tryon Edwards",
+            "text": "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 558,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 559,
+        "fields": {
+            "author": "E. M. Forster",
+            "text": "One must be fond of people and trust them if one is not to make a mess of life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 560,
+        "fields": {
+            "author": "David Seamans",
+            "text": "We cannot change our memories, but we can change their meaning and the power they have over us."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 561,
+        "fields": {
+            "author": "Confucius",
+            "text": "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 562,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "To give hope to someone occurs when you teach them how to use the tools to do it for themselves."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 563,
+        "fields": {
+            "author": "Lucille Ball",
+            "text": "Id rather regret the things that I have done than the things that I have not done."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 564,
+        "fields": {
+            "author": "Eckhart Tolle",
+            "text": "The past has no power to stop you from being present now. Only your grievance about the past can do that."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 565,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "If the stars should appear but one night every thousand years how man would marvel and adore."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 566,
+        "fields": {
+            "author": "Laurence J. Peter",
+            "text": "There are two kinds of failures: those who thought and never did, and those who did and never thought."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 567,
+        "fields": {
+            "author": "Elizabeth Arden",
+            "text": "I'm not interested in age. People who tell me their age are silly. You're as old as you feel."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 568,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 569,
+        "fields": {
+            "author": "Confucius",
+            "text": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 570,
+        "fields": {
+            "author": "Nikola Tesla",
+            "text": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 571,
+        "fields": {
+            "author": "Leo Aikman",
+            "text": "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 572,
+        "fields": {
+            "author": "Pablo Picasso",
+            "text": "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 573,
+        "fields": {
+            "author": "Vernon Cooper",
+            "text": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 574,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "One secret of success in life is for a man to be ready for his opportunity when it comes."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 575,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 576,
+        "fields": {
+            "author": "Carl Jung",
+            "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 577,
+        "fields": {
+            "author": "Buddha",
+            "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 578,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 579,
+        "fields": {
+            "author": "",
+            "text": "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 580,
+        "fields": {
+            "author": "Johann Wolfgang von Goethe",
+            "text": "Treat people as if they were what they ought to be and you help them to become what they are capable of being."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 581,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 582,
+        "fields": {
+            "author": "Jack Dixon",
+            "text": "If you focus on results, you will never change. If you focus on change, you will get results."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 583,
+        "fields": {
+            "author": "G. K. Chesterton",
+            "text": "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 584,
+        "fields": {
+            "author": "Denis Waitley",
+            "text": "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 585,
+        "fields": {
+            "author": "Lao-Tzu",
+            "text": "All difficult things have their origin in that which is easy, and great things in that which is small."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 586,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "You can be what you want to be. You have the power within and we will help you always."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 587,
+        "fields": {
+            "author": "Johannes Gaertner",
+            "text": "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 588,
+        "fields": {
+            "author": "Doug Larson",
+            "text": "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 589,
+        "fields": {
+            "author": "Charles Lamb",
+            "text": "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 590,
+        "fields": {
+            "author": "John Muir",
+            "text": "When one tugs at a single thing in nature, he finds it attached to the rest of the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 591,
+        "fields": {
+            "author": "Winston Churchill",
+            "text": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 592,
+        "fields": {
+            "author": "Helen Keller",
+            "text": "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 593,
+        "fields": {
+            "author": "Buddha",
+            "text": "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 594,
+        "fields": {
+            "author": "Thomas Edison",
+            "text": "Many of life's failures are people who did not realize how close they were to success when they gave up."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 595,
+        "fields": {
+            "author": "William Ward",
+            "text": "When we seek to discover the best in others, we somehow bring out the best in ourselves."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 596,
+        "fields": {
+            "author": "Michael Jordan",
+            "text": "If you accept the expectations of others, especially negative ones, then you never will change the outcome."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 597,
+        "fields": {
+            "author": "Oliver Holmes",
+            "text": "A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 598,
+        "fields": {
+            "author": "Confucius",
+            "text": "I am not bothered by the fact that I am unknown. I am bothered when I do not know others."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 599,
+        "fields": {
+            "author": "Epictetus",
+            "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 600,
+        "fields": {
+            "author": "Pablo Picasso",
+            "text": "I am always doing that which I cannot do, in order that I may learn how to do it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 601,
+        "fields": {
+            "author": "Barack Obama",
+            "text": "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 602,
+        "fields": {
+            "author": "Ivy Baker Priest",
+            "text": "The world is round and the place which may seem like the end may also be the beginning."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 603,
+        "fields": {
+            "author": "",
+            "text": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 604,
+        "fields": {
+            "author": "Danielle Ingrum",
+            "text": "Give it all you've got because you never know if there's going to be a next time."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 605,
+        "fields": {
+            "author": "Old German proverb",
+            "text": "You have to take it as it happens, but you should try to make it happen the way you want to take it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 606,
+        "fields": {
+            "author": "Ralph Blum",
+            "text": "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 607,
+        "fields": {
+            "author": "Bruce Lee",
+            "text": "Im not in this world to live up to your expectations and you're not in this world to live up to mine."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 608,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 609,
+        "fields": {
+            "author": "Walter Cronkite",
+            "text": "I can't imagine a person becoming a success who doesn't give this game of life everything hes got."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 610,
+        "fields": {
+            "author": "Socrates",
+            "text": "The greatest way to live with honor in this world is to be what we pretend to be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 611,
+        "fields": {
+            "author": "Seneca",
+            "text": "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 612,
+        "fields": {
+            "author": "Chalmers",
+            "text": "The grand essentials of happiness are: something to do, something to love, and something to hope for."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 613,
+        "fields": {
+            "author": "Thich Nhat Hanh",
+            "text": "By living deeply in the present moment we can understand the past better and we can prepare for a better future."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 614,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 615,
+        "fields": {
+            "author": "Ralph Emerson",
+            "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 616,
+        "fields": {
+            "author": "Robert Louis Stevenson",
+            "text": "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 617,
+        "fields": {
+            "author": "Napoleon Hill",
+            "text": "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 618,
+        "fields": {
+            "author": "",
+            "text": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 619,
+        "fields": {
+            "author": "Henry Thoreau",
+            "text": "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 620,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "The greatest good you can do for another is not just to share your riches but to reveal to him his own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 621,
+        "fields": {
+            "author": "Brian Tracy",
+            "text": "You can only grow if you're willing to feel awkward and uncomfortable when you try something new."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 622,
+        "fields": {
+            "author": "Joan Didion",
+            "text": "To free us from the expectations of others, to give us back to ourselves, there lies the great, singular power of self-respect."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 623,
+        "fields": {
+            "author": "Mabel Newcomber",
+            "text": "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 624,
+        "fields": {
+            "author": "",
+            "text": "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 625,
+        "fields": {
+            "author": "Robert Graves",
+            "text": "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 626,
+        "fields": {
+            "author": "Frank Wright",
+            "text": "The thing always happens that you really believe in; and the belief in a thing makes it happen."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 627,
+        "fields": {
+            "author": "Francois de La Rochefoucauld",
+            "text": "A true friend is the most precious of all possessions and the one we take the least thought about acquiring."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 628,
+        "fields": {
+            "author": "Epictetus",
+            "text": "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 629,
+        "fields": {
+            "author": "Margaret Cousins",
+            "text": "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 630,
+        "fields": {
+            "author": "",
+            "text": "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you'll never get back."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 631,
+        "fields": {
+            "author": "Thomas Carlyle",
+            "text": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 632,
+        "fields": {
+            "author": "Pearl Buck",
+            "text": "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 633,
+        "fields": {
+            "author": "Catherine Pulsifer",
+            "text": "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 634,
+        "fields": {
+            "author": "Alfred Tennyson",
+            "text": "The happiness of a man in this life does not consist in the absence but in the mastery of his passions."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 635,
+        "fields": {
+            "author": "Margaret Mead",
+            "text": "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 636,
+        "fields": {
+            "author": "Ovid",
+            "text": "Let your hook always be cast; in the pool where you least expect it, there will be a fish."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 637,
+        "fields": {
+            "author": "Remez Sasson",
+            "text": "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 638,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 639,
+        "fields": {
+            "author": "Pema Chodron",
+            "text": "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 640,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "If you love someone, set them free. If they come back they're yours; if they don't they never were."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 641,
+        "fields": {
+            "author": "David Jordan",
+            "text": "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 642,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 643,
+        "fields": {
+            "author": "Alan Watts",
+            "text": "No valid plans for the future can be made by those who have no capacity for living now."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 644,
+        "fields": {
+            "author": "Oscar Wilde",
+            "text": "The aim of life is self-development. To realize ones nature perfectly, that is what each of us is here for."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 645,
+        "fields": {
+            "author": "Anatole France",
+            "text": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 646,
+        "fields": {
+            "author": "Thomas Edison",
+            "text": "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 647,
+        "fields": {
+            "author": "John Steinbeck",
+            "text": "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 648,
+        "fields": {
+            "author": "",
+            "text": "If we are facing in the right direction, all we have to do is keep on walking."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 649,
+        "fields": {
+            "author": "Eleanor Roosevelt",
+            "text": "Remember always that you not only have the right to be an individual, you have an obligation to be one."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 650,
+        "fields": {
+            "author": "Denis Waitley",
+            "text": "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 651,
+        "fields": {
+            "author": "Epictetus",
+            "text": "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 652,
+        "fields": {
+            "author": "Eknath Easwaran",
+            "text": "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 653,
+        "fields": {
+            "author": "Helen Keller",
+            "text": "We could never learn to be brave and patient if there were only joy in the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 654,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "If it is not right do not do it; if it is not true do not say it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 655,
+        "fields": {
+            "author": "Norman Schwarzkopf",
+            "text": "The truth of the matter is that you always know the right thing to do. The hard part is doing it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 656,
+        "fields": {
+            "author": "Julie Morgenstern",
+            "text": "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 657,
+        "fields": {
+            "author": "Blaise Pascal",
+            "text": "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 658,
+        "fields": {
+            "author": "Laura Teresa Marquez",
+            "text": "Arrogance and rudeness are training wheels on the bicycle of life, for weak people who cannot keep their balance without them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 659,
+        "fields": {
+            "author": "Chinese proverb",
+            "text": "If you are patient in one moment of anger, you will escape one hundred days of sorrow."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 660,
+        "fields": {
+            "author": "Abraham Lincoln",
+            "text": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 661,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 662,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 663,
+        "fields": {
+            "author": "Harry Kemp",
+            "text": "The poor man is not he who is without a cent, but he who is without a dream."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 664,
+        "fields": {
+            "author": "Benjamin Disraeli",
+            "text": "The greatest good you can do for another is not just share your riches, but reveal to them their own."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 665,
+        "fields": {
+            "author": "Buddha",
+            "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 666,
+        "fields": {
+            "author": "",
+            "text": "Peace of mind is not the absence of conflict from life, but the ability to cope with it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 667,
+        "fields": {
+            "author": "Helen Keller",
+            "text": "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 668,
+        "fields": {
+            "author": "John Kennedy",
+            "text": "Change is the law of life. And those who look only to the past or present are certain to miss the future."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 669,
+        "fields": {
+            "author": "Marcus Aurelius",
+            "text": "You have power over your mind, not outside events. Realize this, and you will find strength."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 670,
+        "fields": {
+            "author": "Louis Pasteur",
+            "text": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 671,
+        "fields": {
+            "author": "Buddha",
+            "text": "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 672,
+        "fields": {
+            "author": "Henry Longfellow",
+            "text": "He that respects himself is safe from others; he wears a coat of mail that none can pierce."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 673,
+        "fields": {
+            "author": "Wayne Dyer",
+            "text": "I cannot always control what goes on outside. But I can always control what goes on inside."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 674,
+        "fields": {
+            "author": "Daisaku Ikeda",
+            "text": "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 675,
+        "fields": {
+            "author": "Epictetus",
+            "text": "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 676,
+        "fields": {
+            "author": "Rumi",
+            "text": "Everyone has been made for some particular work, and the desire for that work has been put in every heart."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 677,
+        "fields": {
+            "author": "Napoleon Bonaparte",
+            "text": "Take time to deliberate, but when the time for action has arrived, stop thinking and go in."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 678,
+        "fields": {
+            "author": "Dalai Lama",
+            "text": "With realization of ones own potential and self-confidence in ones ability, one can build a better world."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 679,
+        "fields": {
+            "author": "Franklin Roosevelt",
+            "text": "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 680,
+        "fields": {
+            "author": "Pearl Buck",
+            "text": "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 681,
+        "fields": {
+            "author": "Mary Kay Ash",
+            "text": "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 682,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Try not to become a man of success, but rather try to become a man of value."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 683,
+        "fields": {
+            "author": "Sophocles",
+            "text": "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 684,
+        "fields": {
+            "author": "Rene Descartes",
+            "text": "It is not enough to have a good mind; the main thing is to use it well."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 685,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 686,
+        "fields": {
+            "author": "Amelia Earhart",
+            "text": "Never do things others can do and will do, if there are things others cannot do or will not do."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 687,
+        "fields": {
+            "author": "Jimmy Dean",
+            "text": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 688,
+        "fields": {
+            "author": "George Allen",
+            "text": "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 689,
+        "fields": {
+            "author": "Joseph Roux",
+            "text": "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 690,
+        "fields": {
+            "author": "Bernice Reagon",
+            "text": "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 691,
+        "fields": {
+            "author": "Socrates",
+            "text": "The greatest way to live with honour in this world is to be what we pretend to be."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 692,
+        "fields": {
+            "author": "Henri Bergson",
+            "text": "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 693,
+        "fields": {
+            "author": "Albert Einstein",
+            "text": "Try not to become a man of success but rather try to become a man of value."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 694,
+        "fields": {
+            "author": "Byron Pulsifer",
+            "text": "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 695,
+        "fields": {
+            "author": "Buddha",
+            "text": "Your work is to discover your world and then with all your heart give yourself to it."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 696,
+        "fields": {
+            "author": "Daisaku Ikeda",
+            "text": "The person who lives life fully, glowing with life's energy, is the person who lives a successful life."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 697,
+        "fields": {
+            "author": "Richard Bach",
+            "text": "Don't turn away from possible futures before you're certain you don't have anything to learn from them."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 698,
+        "fields": {
+            "author": "David Brinkley",
+            "text": "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 699,
+        "fields": {
+            "author": "Buddha",
+            "text": "All that we are is the result of what we have thought. The mind is everything. What we think we become."
+        }
+    },
+    {
+        "model": "quotes.Quote",
+        "pk": 700,
+        "fields": {
+            "author": "Henri-Frederic Amiel",
+            "text": "Work while you have the light. You are responsible for the talent that has been entrusted to you."
+        }
+    }
+]
