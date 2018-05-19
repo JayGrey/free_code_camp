@@ -6,4 +6,7 @@ from .models import Quote
 def index(request):
     quote = Quote.quotes.random()
     response = {'author': quote.author, 'text': quote.text}
-    return JsonResponse(response)
+    json = JsonResponse(response)
+    # adding CORS support
+    json['Access-Control-Allow-Origin'] = '*'
+    return json
