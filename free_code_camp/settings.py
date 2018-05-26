@@ -131,6 +131,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+WEATHER_SERVER = 'https://fcc-weather-api.glitch.me/api/current'
 
 try:
     from .local_settings import *
