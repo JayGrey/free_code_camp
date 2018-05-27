@@ -4,8 +4,7 @@ from .utils import get_data_from_server
 
 
 def index(request):
-    response = get_data_from_server(request.GET.get('latitude'),
-                                    request.GET.get('longitude'))
+    response = get_data_from_server(request)
 
     json = JsonResponse(response)
     # adding CORS support
