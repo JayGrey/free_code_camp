@@ -6,8 +6,8 @@ import requests
 
 
 def get_server_name(request):
-    port = ':' + request.META['SERVER_PORT'] if request.META['SERVER_PORT'] != 80 else ''
-    return '{}://{}{}'.format(request.scheme, request.META['SERVER_NAME'], port)
+    # port = ':' + request.META['SERVER_PORT'] if request.META['SERVER_PORT'] != 80 else ''
+    return '{}://{}'.format(request.scheme, request.META['HTTP_HOST'])
 
 
 def get_background_image(date, phenomenon):
